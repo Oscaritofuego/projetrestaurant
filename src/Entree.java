@@ -18,4 +18,5 @@ public class Entree {
   public void setQuantite(int quantite) {//setter quantité
     this.quantite = quantite;
   }
+  
 }
